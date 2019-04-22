@@ -1,0 +1,8 @@
+name: AvarionJobs
+description: Jobs Plugin fuer Avarioncraft
+main: com.avarioncraft.Jobs.core.AvarionJobs
+version: 1.0
+website: https://avarioncraft.de/
+author: [Gestankbratwurst, crysis992]
+depend: [CT-Core, Vault]
+api-version: 1.13
